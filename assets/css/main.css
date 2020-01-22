@@ -8296,7 +8296,8 @@ h4.support-tso-2 {
 
 
 .client {
-    background-color: rgba(255,255,255,0.3) !important;
+    /* background-color: rgba(255,255,255,0.3) !important; */
+    background-color: #ffffff !important;
     padding: 35px 0 38px !important;
 }
 
